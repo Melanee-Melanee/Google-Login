@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "215466956948",
+    "project_number": "",
     "project_id": "time-tracker-988af",
     "storage_bucket": "time-tracker-988af.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:215466956948:android:f3d8bffe4677e7650ebc81",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.finance_calculator"
         }
       },
       "oauth_client": [
         {
-          "client_id": "215466956948-ae1h3r80hmn597pekr17f61lbj1ir0p5.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBLmwHJrQlYeP2RRsjgFepkOPFvBAQvxQ0"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "215466956948-ae1h3r80hmn597pekr17f61lbj1ir0p5.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
