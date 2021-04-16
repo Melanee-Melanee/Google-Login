@@ -1,5 +1,6 @@
 # Google Login
 Just Google Login and anonimous login are coded in this repository and Facebook and Email login are not coded. 
+
 ![Google Login](https://user-images.githubusercontent.com/74653444/115002322-da16d580-9eb9-11eb-9c1e-f4ca3e4a0e85.jpg)
 
 ## Getting Started
