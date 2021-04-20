@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: true,
       title: "Time Tracker",
       theme: ThemeData(
-        primarySwatch: Colors.indigo
+        primarySwatch: Colors.green
       ),
       home: LandingPage());
   }
